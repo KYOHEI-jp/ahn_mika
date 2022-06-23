@@ -7,7 +7,7 @@
 import 'package:flutter/material.dart';
 
 
-// Colorシリーズ
+// Color
 const dark = Color(0xFF1D1E33);
 const white = Color(0xFFFFFFFF);
 const antiqueWhite = Color(0xFFFAEBD7);
